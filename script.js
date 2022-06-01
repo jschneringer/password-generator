@@ -1,7 +1,13 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
+function generateBtn() {
+  alert("I am an alert box!");
+
+
 function generatePassword () {
+console.log("test")
+return ("test")
 
 }
 
